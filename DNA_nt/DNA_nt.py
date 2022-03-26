@@ -22,9 +22,3 @@ for i in dna:
         t += 1 
 
 print(a, " ", c, " ", g, " ", t)
-
-
-# Another approach 
-
-for c in 'ACGT': print dna.count(c)
-
