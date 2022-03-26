@@ -3,9 +3,6 @@
 with open('DNA_nt/rosalind_dna.txt', 'r') as file:
     dna = file.read().replace('\n', '')
 
-for i in dna: 
-    print(i)
-
 a = 0
 c = 0
 g = 0
