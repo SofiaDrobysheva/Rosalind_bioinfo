@@ -1,0 +1,16 @@
+Rosalind_4928
+54.4181
+Rosalind_9205
+49.5516
+Rosalind_2575
+48.3237
+Rosalind_4633
+47.4346
+Rosalind_9568
+51.6757
+Rosalind_0766
+49.2678
+Rosalind_9231
+52.5529
+Rosalind_5590
+50.2370
